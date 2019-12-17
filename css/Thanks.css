@@ -1,0 +1,27 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+.pa {
+margin: 0 auto;
+text-align: center;
+color: black;
+font-size: 20px;
+font-family: Gupter;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+  }
+  a:visited { text-decoration: none; color:black; }
+* {
+    background: white;
+}
+img {
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
